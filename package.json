@@ -1,0 +1,23 @@
+{
+  "name": "node.js-study",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hOch1/node.js-study.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hOch1/node.js-study/issues"
+  },
+  "homepage": "https://github.com/hOch1/node.js-study#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.9"
+  }
+}
